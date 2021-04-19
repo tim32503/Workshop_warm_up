@@ -1,14 +1,15 @@
 // TO DO
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelector('#button').addEventListener('click', (e) => {
+
     /*
-    你可能要會知道以下的方法在幹嘛：
-    nextElementSibling
-    previousElementSibling
-    parentNode
-    children
-    firstElementChild
-    lastElementChild
+      你可能要會知道以下的方法在幹嘛：
+      nextElementSibling
+      previousElementSibling
+      parentNode
+      children
+      firstElementChild
+      lastElementChild
     */
 
   /* 題目1: 把包著 內容1 的 div 加上 .pink 的 class  */

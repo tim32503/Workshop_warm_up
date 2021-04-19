@@ -8,9 +8,10 @@
 ![](https://i.imgur.com/E0mvVdV.gif)
 
 ## 透過 event target 改變其他元素
-⚠️ 限制: 只能透過 `event target` 去更改 element 的內容
+⚠️  限制: 只能透過 `event target` 去更改 element 的內容 <br>
+除了 button 可以使用 `querySelector` 外，其他都不能透過選取的方式得到 DOM 元素
 
-You need to know ...
+要完成這個內容你會需要知道:
 ```
 nextElementSibling
 previousElementSibling
